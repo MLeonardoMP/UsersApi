@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0wjE6/yDYSY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USUARIO\\OneDrive - Universidad Nacional de Colombia\\Documents\\Repos\\Coursera\\Microsoft Fullstack Developer\\.net\\UsersApi\\UsersAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
